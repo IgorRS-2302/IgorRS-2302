@@ -1,6 +1,6 @@
 ### Hey, I'm Igor Siqueira ✌🏻
 
-- 🔭 I’m currently looking for a job.
+- 🔭 I’m currently working at NTT DATA Brazil.
 - 🌱 I’m currently learning `React` and `Java`.
 - 👯 I’m looking to collaborate on web apps.
 - 💬 Ask me about `Javascript`
