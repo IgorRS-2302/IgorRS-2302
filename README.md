@@ -51,6 +51,11 @@
       <td>Development with React</td>
       <td>September 2021 - February 2022</td>
     </tr>
+    <tr> 
+      <td><b>Developer at NTT DATA Brazil</b></td>
+      <td>Development with React/JavaScript</td>
+      <td>October 2022 - Currently</td>
+    </tr>
   </tbody>
 </table>
 
