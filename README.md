@@ -35,6 +35,7 @@
 
 ![Java](https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=Java&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7633f9?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <summary><b> Work Experience 👇🏻 </b></summary>
 <table>
